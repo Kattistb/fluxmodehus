@@ -1,10 +1,20 @@
 function buildMenu()
 {
+
+    <br>
+
+
     var links = [
-       ["Startsida", "index.html"]
-       ["Designers", "designers.html"]
-       ["Kontakta oss", "kontaktaoss.html"]
-       ["Om oss", "omoss.html"]
+       ["Startsida", "index.html"],
+       ["Om oss", "omoss.html"],
+       ["Designers", "designers.html"],
+       ["Kläder", "klader.html"],
+       ["Kontakta oss", "kontaktaoss.html"], 
+       ["Kampanj", "https://wordpress.com/home/katarinatavakoli.wordpress.com"],
+       ["Ta bort", "tabort.html"]
+    
+    
+    
     ]
     
     var content = ""
