@@ -1,7 +1,7 @@
 function buildMenu()
 {
 
-    <br>
+    
 
 
     var links = [
