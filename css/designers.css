@@ -49,9 +49,9 @@ body{
 a{
     padding-left: 10px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-    font-size: x-large;
+    font-size: large;
     background: none;
-    padding:  30px; 
+    padding:  10px; 
     text-decoration: none;
     border-radius: 20px;
     color: black;
@@ -76,7 +76,7 @@ li{
 
 
 a:hover {
-    background-color: pink;
+    background-color: rgb(212, 255, 192);
 
 }
 
